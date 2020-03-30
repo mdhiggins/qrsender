@@ -1,3 +1,3 @@
-# QRSender Privary Policy
+# QRSender Privacy Policy
 
 We don't store your data, period.
